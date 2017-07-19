@@ -1,0 +1,1 @@
+__BLIMP__ will become [__SLIM__](git@git.17bdc.com:yase/slim.git) after all.

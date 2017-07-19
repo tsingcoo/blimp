@@ -1,0 +1,43 @@
+aa    a, a...e, aa, aae, aah, aahe, ah, au, e, ea, i, o
+ae    a, aa, ah, ai, al, au, ea, ei, i
+ah    u, o, o…e, oe, oo, ou, wo, au, a, e, i, o, u, y, a...e, ae, ah, ai, au, ea, eau, eh, ei, eig, eo, eou, eu, gh, ie, o...e, oa, oe, oh, oi, oo, ou, ough, u...e, ua, ue, ui, uo
+ao    o, a, al, au, au...e, augh, aughe, aw, awe, eo, oa, oh, oo, ou, ough, u, uo, ach, eau, ow
+aw    ou, ow, ao, aow, aowe, au, ough, oughe, owe
+ay    i…e, ae, ai, aie, aille, ais, ay, aye, ei, eigh, ey, eye, i, ia, ic, ie, ig, igh, ighe, is, oi, oy, ui, uy, uye, y, y...e, ye
+b    b, bb, be, bh, pb
+ch    ch, tch, c, cc, che, chi, cz, t, tche, te, th, ti, tsch, tsh
+d    d, dd, de, dh, ed, ld, t, tt
+dh    th, the, y
+eh    e, a, ae, ai, ay, e...e, ea, ei, eo, ie, ieu, oe, u, ue, aa
+er    er, ir, ur, ear, ere, err, erre, eur, eure, irr, irre, oeu, olo, or, ore, our, ueur, urr, urre, yr, yrrh, re, ar
+ey    a, a…e, aa, ae, ai, ai...e, aig, aigh, ais, al, ao, au, ay, aye, e (é), e...e, ea, eg, ee (ée), eh, ei, ei...e, eig, eigh, eighe, er, ere, es, et, ete, ey, eye, ez, ie, oeh, ue, uet
+f    f, ff, fe, ffe, gh, lf, ph, phe, pph, v, w, wski
+g    g, gg, gge, gh, gu, gue
+hh    h, wh, j, ch, x
+ih    i, y, a, a...e, ai, e, ea, ee, ei, i...e, ia, ie, ii, o, oe, u, u...e, ui
+iy    e, e…e, i, i…e, a, ae, ay, ea, ee, ei, eo, ey, eye, ie, ie...e, is, oe, oi, ue, ui, uy, y, wski
+jh    g, j, ch, d, dg, dge, di, dj, ge, gg, gi, t
+k    c, k, cc, ch, ck, cq, cqu, cque, cu, ke, kh, kk, lk, q, qu, que, x, wski
+l    l, ll, le, lh, lle
+m    m, mm, chm, gm, lm, mb, mbe, me, mh, mme, mn, mmm
+n    n, nn, cn, dn, gn, gne, kn, ln, mn, mp, nd, ne, nh, nne, pn, sne
+ng    ng, n, nc, ngh, ngue
+ow    o, o…e, aoh, au, eau, eaue, eo, ew, oa, oe, oh, oo, ot, ou, ough, oughe, ow, owe
+oy    oi, oy, awy, eu, oll, oye, uoy, uoye
+p    p, pp, gh, pe, ph, ppe
+r    r, rr, l, re, rh, rre, rrh, rt, wr
+s    s, ss, c, cc, ce, ps, sc, sce, sch, se, sse, st, sth, sw, tz, z, x, wski
+sh    sh, c, ce, ch, che, chi, chsi, ci, s, sc, sch, sci, she, shi, si, ss, ssi, ti
+t    t, tt, bt, cht, ct, d, ed, ght, pt, te, th, tte, tw, z
+th    th, the, chth, phth, tth
+uh    oo, u, o, or, ou, oul
+uw    u, u...e, oo, eu, ew, ieu, ioux, o, o…e, oe, oeu, ooe, ou, ough, ougha, oup, ue, ui, uo, w, wo
+v    v, vv, f, lve, ph, ve, w
+w    w, u, o, ou, we, wh
+y    y, i, j, ll, r
+z    z, zz, cz, s, sc, se, ss, sth, ts, tz, x, ze, c
+zh    g, ge, j, s, si, ti, z, zh, zi
+aar    ar, aar, are, arr, arre, arrh, ear, er, uar, our
+ehr    are, aer, air, aire, ar, ayer, ayor, ayre, e'er, eah, ear, eir, eor, er, ere, err, erre, ert, ey're, eyr
+ihr    ere, aer, e're, ea, ear, eare, eer, eere, eir, eor, er, ers, eyr, ier, iere, ir, oea
+yuw    u, u…e, ew, eau, eo, eu, ewe, ieu, iew, ou, ue, ueue, ui, ut

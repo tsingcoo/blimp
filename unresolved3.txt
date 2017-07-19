@@ -1,0 +1,859 @@
+aaa  T R IH P AH L EY 
+aba  EY B IY EY 
+abc  EY B IY S IY 
+abd  EY B IY D IY 
+abs  EY B IY EH S 
+abt  EY B IY T IY 
+acc  AY S IY S IY 
+accuracy  AE K Y ER AH S IY 
+accurate  AE K Y ER AH T 
+accurately  AE K Y ER AH T L IY 
+ach  EY S IY EY CH 
+acm  EY S IY EH M 
+acquirer  AH K W AY ER ER 
+activism  AE K T IH V IH Z AH M 
+actual  AE K CH AH W AH L 
+actual  AE K SH AH L 
+actually  AE K SH AH L IY 
+acura  AE K Y ER AH 
+adhd  EY D IY EY CH D IY 
+adsl  EY D IY EH S EH L 
+aerobics  ER OW B IH K S 
+afl  EY EH F EH L 
+africa  AE F ER K AH 
+afterthought  AE F T ER TH AA T 
+aka  EY K EY EY 
+alcoholism  AE L K AH HH AO L IH Z AH M 
+algorithm  AE L G ER IH DH AH M 
+algorithmic  AE L G ER IH DH AH M IH K 
+algorithms  AE L G ER IH DH AH M Z 
+altruism  AE L T R UW IH Z AH M 
+alzheimers  AA T S Z HH AY M ER Z 
+alzheimer  AA L T S HH AY M ER 
+ams  EY EH M Z 
+ama  EY EH M EY 
+amc  EY EH M S IY 
+amd  EY EH M D IY 
+amr  AA M ER 
+anachronism  AH N AE K R AH N IH Z AH M 
+anaerobic  AE N ER OW B IH K 
+angst  AA NG K S T 
+annualized  AE N Y UW W AH L AY Z D 
+antagonism  AE N T AE G AH N IH Z AH M 
+anxious  AE NG K SH AH S 
+anxious  AE NG SH AH S 
+anxiously  AE NG K SH AH S L IY 
+anyone  EH N IY W AH N 
+anyones  EH N IY W AH N Z 
+aol  EY OW EH L 
+aol  AH M ER IH K AH AA N L AY N 
+apc  EY P IY S IY 
+aphorism  AE F ER IH Z AH M 
+api  EY P IY AY 
+aramaic  AA R AA M EH Y IH K 
+arrhythmia  ER IH DH M IY AH 
+asap  EY EH S EY P IY 
+asean  EY EH S IY EY EH N 
+astigmatism  AH S T IH G M AH T IH Z AH M 
+atheism  AH TH AY S AH M 
+atheism  EY TH IY IH Z AH M 
+ati  EY T IY AY 
+atlantis  AE T L AE N T IH S IH Z 
+atm  EY T IY EH M 
+atp  EY T IY P IY 
+atv  EY T IY V IY 
+aug  AO G AH S T 
+aurora  ER AO R AH 
+authoritarianism  AH TH AO R AH T EH R IY AH N IH Z AH M 
+autism  AO T IH Z AH M 
+awesome  AA S AH M 
+awesomely  AA S AH M L IY 
+awestruck  AA S T R AH K 
+awry  ER AY 
+baffling  B AE F AH L IH NG 
+bahrain  B AY R EY N 
+baptism  B AE P T IH Z AH M 
+barbarism  B AA R B ER IH Z AH M 
+bbc  B IY B IY S IY 
+bbq  B IY B IY K Y UW 
+bbq  B AA R B IH K Y UW 
+benz  B AE N Z 
+bespoke  B UH S P OW K 
+bisexual  B AY S EH K SH UW AH L 
+bisexuality  B AY S EH K SH UW AE L AH T IY 
+blvd  B UH L AH V AA R D 
+bmw  B IY EH M D AH B AH L Y UW 
+boggling  B AA G AH L IH NG 
+bottling  B AA T AH L IH NG 
+bought  B AA T 
+bubbly  B AH B AH L IY 
+buddhism  B UW D IH Z AH M 
+bukowski  B Y UW K AO F S K IY 
+bundling  B AH N D AH L IH NG 
+bustling  B AH S AH L IH NG 
+byu  B IY W AY Y UW 
+cds  S IY D IY Z 
+cod  S IY OW D IY 
+cac  S IY EY S IY 
+cannibalism  K AE N AH B AH L IH Z AH M 
+capitalism  K AE P IH T AH L IH Z AH M 
+casual  K AE ZH AH W AH L 
+casually  K AE ZH AH W AH L IY 
+casualty  K AE ZH AH W AH L T IY 
+cat  K AE T T UW 
+cat  K AE T TH R IY 
+cat  K AE T F AO R 
+cataclysm  K AE T AH K L IH S AH M 
+catechism  K AE T AH K IH Z AH M 
+catholicism  K AH TH AO L AH S IH Z AH M 
+cbc  S IY B IY S IY 
+cbs  S IY B IY EH S 
+ccd  S IY S IY D IY 
+cctv  S IY S IY T IY V IY 
+cdc  S IY D IY S IY 
+cds  S IY D IY Z 
+centers  S EH N ER Z 
+center  S EH N ER 
+centers  S EH N ER Z 
+centers  S EH N ER Z 
+ceo  S IY IY OW 
+cfo  S IY EH F OW 
+cgi  S IY G IY AY 
+chasm  K AE Z AH M 
+chauvinism  SH OW V AH N IH Z AH M 
+choir  K W AY ER 
+cia  S IY AY EY 
+cio  S IY AY OW 
+cit  S IY AY T IY 
+clothes  K L OW Z 
+cmos  S IY M OW S 
+cmos  S IY EH M OW EH S 
+cmu  S IY EH M Y UW 
+cnet  S IY N EH T 
+cnn  S IY EH N EH N 
+cod  S IY OW D IY 
+cognac  K OW N Y AE K 
+cognac  K AA N Y AE K 
+collectivism  K AH L EH K T IH V IH Z AH M 
+colonialism  K AH L OW N IY AH L IH Z AH M 
+communism  K AA M Y AH N IH Z AH M 
+complexion  K AH M P L EH K SH AH N 
+confidentiality  K AA N F AH D EH N SH IY AE L AH T IY 
+configuration  K AH N F IH G Y ER EY SH AH N 
+configure  K AH N F IH G Y ER 
+confucianism  K AH N F Y UW SH AH N IH Z AH M 
+congress  K AA N G R AH S IH Z 
+conjecture  K AH N JH EH K SH ER 
+conservatism  K AH N S ER V AH T IH Z AH M 
+consortium  K AH N S AO R SH IY AH M 
+consumerism  K AH N S UW M ER IH Z AH M 
+consumption  K AH N S AH M SH AH N 
+corps  K AO R P ER EY SH AH N Z 
+corp  K AO R P ER EY SH AH N 
+corps  K AO R P ER EY SH AH N Z 
+corp  K AO R P ER EY SH AH N 
+corporatism  K AO R P ER AH T IH Z AH M 
+cough  K AA F 
+coughing  K AA F IH NG 
+counterclockwise  K AW N ER K L AO K W AY Z 
+counterculture  K AW N ER K AH L CH ER 
+cps  S IY P IY EH S 
+cpu  S IY P IY Y UW 
+creationism  K R IY EY SH AH N IH Z AH M 
+crippling  K R IH P AH L IH NG 
+criticism  K R IH T IH S IH Z AH M 
+crm  S IY AA R EH M 
+cronyism  K R OW N IY IH Z AH M 
+crucifixion  K R UW S IH F IH K SH AH N 
+csi  S IY EH S AY 
+csv  S IY EH S V IY 
+cupboard  K AH B ER D 
+current  K AA R AH N T 
+cycling  S AY K AH L IH NG 
+cyclist  S AY K AH L IH S T 
+cynicism  S IH N IH S IH Z AH M 
+das  D IY EY Z 
+darwinism  D AA R W IH N IH Z AH M 
+davis  D EY V AH S AH Z 
+dazzling  D AE Z AH L IH NG 
+ddt  D IY D IY T IY 
+deism  D IY IH Z AH M 
+dementia  D IH M EH N SH IY AH 
+desirable  D IH Z AY ER AH B AH L 
+determinism  D IH T ER M AH N IH Z AH M 
+devour  D IH V AW ER 
+dfw  D IY EH F D AH B AH L Y UW 
+dfw  D IY EH F D AH B AH Y UW 
+diarrhea  D AY ER IY AH 
+differentiate  D IH F ER EH N SH IY EY T 
+differentiated  D IH F ER EH N SH IY EY T IH D 
+differentiation  D IH F ER EH N SH IY EY SH AH N 
+directv  D ER EH K T IY V IY 
+directv  D AY R EH K T IY V IY 
+directv  D IY R EH K T IY V IY 
+directv  D IH R EH K T IY V IY 
+disability  D IH S AH B IH L IH T IY Z 
+disfigure  D IH S F IH G Y ER 
+disgruntled  D IH S G R AH N AH L D 
+disinterested  D IH S IH N R IH S T IH D 
+dismantle  D IH S M AE N AH L 
+dmz  D IY EH M Z IY 
+dna  D IY EH N EY 
+dnc  D IY EH N S IY 
+dns  D IY EH N EH S 
+doctrine  D AO K T ER IH N 
+documentary  D AA K Y AH M EH N ER IY 
+documentary  D AA K Y UW M EH N ER IY 
+dorothy  D AO R TH IY 
+dostoevsky  D AO S T OY EH V S K IY 
+dostoevsky  D AO S T OY EH F S K IY 
+doubling  D AH B AH L IH NG 
+dram  D IY R AE M 
+dss  D IY EH S EH S 
+dualism  D UW AH L IH Z AH M 
+dui  D IY Y UW AY 
+dvd  D IY V IY D IY 
+dynamism  D AY N AH M IH Z AH M 
+edinburgh  EH D AH N B ER OW 
+edu  IY D IY Y UW 
+egalitarianism  IY G AE L AH T EH R IY AH N IH Z AH M 
+egoism  IY G OW IH Z AH M 
+eighth  EY T TH 
+electromagnetism  IH L EH K T R OW M AE G N AH T IH Z AH M 
+elementary  EH L AH M EH N T ER R IY 
+elitism  EH L IH T IH Z AH M 
+elitism  EY L IY T IH Z AH M 
+emerald  EH M ER R AH L D 
+empiricism  EH M P IH R AH S IH Z AH M 
+ems  IY EH M EH S 
+enabler  EH N EY B AH L ER 
+enabler  IH N EY B AH L ER 
+encounter  IH N K AW N ER 
+enter  EH N ER 
+enterprises  EH N ER P R AY Z AH Z 
+enterprises  EH N ER P R AY Z IH Z 
+enterprise  EH N ER P R AY Z 
+enterprises  EH N ER P R AY Z IH Z 
+enterprises  EH N ER P R AY Z IH Z 
+enterprising  EH N ER P R AY Z IH NG 
+entertain  EH N ER T EY N 
+entertainer  EH N ER T EY N ER 
+entertaining  EH N ER T EY N IH NG 
+entertainment  EH N ER T EY N M AH N T 
+enthusiasm  IH N TH UW Z IY AE Z AH M 
+environmentalism  EH N V AY R AH N M EH N T AH L IH Z AH M 
+environmentalism  EH N V AY R AH N M EH N AH L IH Z AH M 
+epa  IY P IY EY 
+escapism  IH S K EY P IH Z AH M 
+espn  IY EH S P IY EH N 
+espresso  EH K S P R EH S OW 
+etc  EH T S EH T ER AH 
+etc  EH T S EH T ER AH 
+euphemism  Y UW F AH M IH Z AH M 
+eurasia  Y UH R EY ZH AH 
+eurasian  Y UH R EY ZH IH N 
+eureka  Y UH R IY K AH 
+euro  Y UH R OW 
+euro  Y UH R AH 
+europa  Y UH R OW P AH 
+europe  Y UH R AH P 
+european  Y UH R AH P IY AH N 
+europeans  Y UH R AH P IY AH N Z 
+europeans  Y UH R AH P IY AH N Z 
+evacuation  IH V AE K Y AH W EY SH AH N 
+evacuation  IY V AE K Y AH W EY SH AH N 
+evangelism  IH V AE N JH AH L IH Z AH M 
+evangelism  IY V AE N JH AH L IH Z AH M 
+eventually  IH V EH N CH AH W AH L IY 
+eventually  IH V EH N SH AH L IY 
+eventually  IY V EH N CH AH W AH L IY 
+eventually  IY V EH N SH AH L IY 
+everyone  EH V R IY W AH N 
+everyones  EH V R IY W AH N Z 
+exemption  IH G Z EH M SH AH N 
+exorcism  EH K S ER S IH Z AH M 
+expansion  IH K S P AE N CH AH N 
+expansionist  IH K S P AE N CH AH N IH S T 
+extremism  EH K S T R EH M IH Z AH M 
+extremism  EH K S T R IY M IH Z AH M 
+failure  F EY L Y ER 
+fanaticism  F AH N AE T AH S IH Z AH M 
+fascism  F AE SH IH Z AH M 
+fatalism  F EY T AH L IH Z AH M 
+favoritism  F EY V ER IH T IH Z AH M 
+fbi  EH F B IY AY 
+fcc  EH F S IY S IY 
+fda  EH F D IY EY 
+feb  F EH B Y AH W EH R IY 
+february  F EH B Y AH W EH R IY 
+federalism  F EH D ER AH L IH Z AH M 
+federalism  F EH D R AH L IH Z AH M 
+feminism  F EH M IH N IH Z AH M 
+feudalism  F Y UW D AH L IH Z AH M 
+fifth  F IH TH 
+figurative  F IH G Y ER AH T IH V 
+figure  F IH G Y ER 
+figurehead  F IH G Y ER HH EH D 
+figurine  F IH G Y ER IY N 
+firing  F AY ER R IH NG 
+flexion  F L EH K SH AH N 
+flickr  F L IH K ER 
+flour  F L AW ER 
+fluctuate  F L AH K CH AH W EY T 
+foia  EH F OW AY EY 
+for  F R ER 
+forbidden  F ER R B IH D AH N 
+foreigner  F AO R N ER 
+foreigner  F AA R N ER 
+formalism  F AO R M AH L IH Z AH M 
+fracture  F R AE K SH ER 
+frankl  F R AE NG K AH L 
+ftp  EH F T IY P IY 
+fundamentalism  F AH N D AH M EH N T AH L IH Z AH M 
+fundamentalism  F AH N D AH M EH N AH L IH Z AH M 
+fyi  F AO R Y AO R IH N F ER M EY SH AH N 
+gambling  G AE M B AH L IH NG 
+gdp  G IY D IY P IY 
+ged  JH IY IY D IY 
+gentle  JH EH N AH L 
+gentleman  JH EH N AH L M AH N 
+gentlemanly  JH EH N AH L M AH N L IY 
+gentlemen  JH EH N AH L M IH N 
+gentleness  JH EH N AH L N AH S 
+genuine  JH EH N Y AH W AH N 
+genuine  JH EH N Y UW W AY N 
+genuinely  JH EH N Y AH W AH N L IY 
+genuinely  JH EH N Y UW W AY N L IY 
+glasgow  G L AE S K OW 
+gmail  JH IY M EY L 
+gonorrhea  G AA N ER IY AH 
+gorbachev  G AO R B AH CH AO F 
+gps  G IY P IY EH S 
+graduate  G R AE JH AH W AH T 
+graduate  G R AE JH AH W EY T 
+graduate  G R AE JH UW W AH T 
+graduating  G R AE JH AH W EY T IH NG 
+graduation  G R AE JH AH W EY SH AH N 
+guillermo  G W IH L Y EH R M OW 
+guillermo  G IY EH R M OW 
+guillermo  G W IY EH R M OW 
+gustav  G UH S T AA F 
+haggling  HH AE G AH L IH NG 
+hampshire  HH AE M SH ER 
+handler  HH AE N D AH L ER 
+handling  HH AE N D AH L IH NG 
+hardworking  HH AA R D HH W ER K IH NG 
+hasnt  HH AE Z AH N T 
+haydn  HH AY D AH N 
+hbo  EY CH B IY OW 
+hedonism  HH IY D AH N IH Z AH M 
+hemorrhage  HH EH M ER IH JH 
+hemorrhage  HH EH M R AH JH 
+henri  AO R IY 
+herb  ER B 
+herbal  ER B AH L 
+herbicide  ER B IH S AY D 
+herbivore  ER B IH V AO R 
+heroism  HH EH R OW IH Z AH M 
+heterogeneous  HH EH T ER AH JH IY N Y AH S 
+heterosexual  HH EH T ER OW S EH K SH AH W AH L 
+heterosexuality  HH EH T ER OW S EH K SH AH W AE L IH T IY 
+heuristic  HH Y UH R IH S T IH K 
+hinduism  HH IH N JH UW IH Z AH M 
+hiv  EY CH AY V IY 
+homosexual  HH OW M OW S EH K SH AH W AH L 
+homosexuality  HH OW M OW S EH K SH UW AE L AH T IY 
+hour  AW ER 
+hours  AW ER Z 
+hour  AW R 
+hourglass  AW ER G L AE S 
+hourly  AW R L IY 
+hours  AW ER Z 
+hours  AW R Z 
+hours  AW R Z 
+hsbc  EY CH EH S B IY S IY 
+html  EY CH T IY EH M EH L 
+http  EY CH T IY T IY P IY 
+huge  Y UW JH 
+hugh  Y UW 
+hughes  HH Y UW Z 
+hughes  HH Y UW Z 
+hughes  Y UW Z 
+hughes  Y UW Z 
+hugo  Y UW G OW 
+human  Y UW M AH N 
+humanism  HH Y UW M AH N IH Z AH M 
+humanitarian  Y UW M AE N AH T EH R IY AH N 
+humanities  Y UW M AE N IH T IY Z 
+humanity  Y UW M AE N IH T IY 
+humans  Y UW M AH N Z 
+humbling  HH AH M B AH L IH NG 
+humid  Y UW M AH D 
+humid  Y UW M IH D 
+hurricane  HH AH R AH K EY N Z 
+hustler  HH AH S AH L ER 
+hustling  HH AH S AH L IH NG 
+hypnotism  HH IH P N AH T IH Z AH M 
+ibm  AY B IY EH M 
+ibn  IH B AH N 
+idealism  AY D IY L IH Z AH M 
+ids  AY D IY Z 
+ieee  AY T R IH P L AH IY 
+imo  AY EH M OW 
+imperialism  IH M P IH R IY AH L IH Z AH M 
+inaccuracy  IH N AE K Y ER AH S IY 
+inaccurate  IH N AE K Y ER AH T 
+inaccurately  IH N AE K Y ER AH T L IY 
+inaugural  IH N AO G Y ER AH L 
+inaugurate  IH N AO G Y ER IH T 
+inaugurate  IH N AO G Y ER EY T 
+inauguration  IH N AO G Y ER EY SH AH N 
+inc  IH NG K AO R P AO R EY T AH D 
+individual  IH N D AH V IH JH AH W AH L 
+individualism  IH N D IH V IH D UW AH L IH Z AH M 
+initiate  IH N IH SH IY EY T 
+initiation  IH N IH SH IY EY SH AH N 
+initiative  IH N IH SH Y AH T IH V 
+initiator  IH N IH SH IY EY T ER 
+inquiry  IH N K W ER R IY 
+ins  AY EH N EH S 
+insecure  IH N S AH K Y ER 
+insignificance  IH N S IH G N Y IH F IH K AH N S 
+insignificant  IH N S IH G N Y IH F IH K AH N T 
+inspiring  IH N S P AY ER IH NG 
+instantiate  IH N S T AE N SH IY EY T 
+intellectualism  IH N T EH L AH K CH UW AH L IH Z AH M 
+intellectualism  IH N EH L AH K CH UW AH L IH Z AH M 
+interact  IH N ER AE K T 
+interaction  IH N ER AE K SH AH N 
+interactive  IH N ER AE K T IH V 
+interactivity  IH N ER AE K T IH V IH T IY 
+interacts  IH N ER AE K T S 
+intercept  IH N ER S EH P T 
+interception  IH N ER S EH P SH AH N 
+interceptor  IH N ER S EH P T ER 
+interchange  IH N ER CH EY N JH 
+interchangeable  IH N ER CH EY N JH AH B AH L 
+interchangeably  IH N ER CH EY N JH AH B L IY 
+intercourse  IH N ER K AO R S 
+interface  IH N ER F EY S 
+interfaces  IH N ER F EY S IH Z 
+interfere  IH N ER F IH R 
+interference  IH N ER F IH R AH N S 
+interim  IH N ER AH M 
+intermediary  IH N ER M IY D IY EH R IY 
+intermediate  IH N ER M IY D IY IH T 
+international  IH N ER N AE SH AH N AH L 
+internationalization  IH N ER N AE SH AH N AH L IH Z EY SH AH N 
+internationally  IH N ER N AE SH AH N AH L IY 
+internationally  IH N ER N AE SH N AH L IY 
+ira  AY AA R EY 
+iron  AY ER N 
+irs  AY AA R EH S 
+isbn  AY EH S B IY EH N 
+ism  IH Z AH M 
+isomorphism  AY S AH M AO R F IH Z AH M 
+ita  AY T IY EY 
+jainism  JH EY N IH Z AH M 
+jalapeno  HH AE L AH P IY N Y OW 
+jan  JH AE N Y UW EH R IY 
+jewelry  JH UW L ER IY 
+jfk  JH IY EH F K EY 
+jingoism  JH IH NG G OW IH Z AH M 
+jolla  HH OY Y AH 
+jorge  HH AO R HH EY 
+journalism  JH ER N AH L IH Z AH M 
+judaism  JH UW D EY IH Z AH M 
+judaism  JH UW D IY IH Z AH M 
+juggling  JH AH G AH L IH NG 
+kal  K EY EY EH L 
+kcal  K EY K AA L 
+kelley  OW K EH L IY 
+kept  K AE P T 
+kgb  K EY JH IY B IY 
+kia  K IY ER 
+kkk  K EY K EY K EY 
+korea  K ER R IY AH 
+korean  K ER R IY AH N 
+koreans  K ER R IY AH N Z 
+koreans  K ER R IY AH N Z 
+kwh  K EY D AH B AH L Y UW EY CH 
+lapd  EH L EY P IY D IY 
+las  EH L EY EH S 
+lasagna  L AA S AA N Y AH 
+lasagna  L AH Z AA N Y AH 
+lbs  P AW N D Z 
+lebowski  L IH B AA F S K IY 
+length  L EH NG K TH 
+lengthen  L EH NG K TH AH N 
+liberalism  L IH B ER AH L IH Z AH M 
+licensure  L AY S AH N CH ER 
+lithuania  L IH TH AH W EY N IY AH 
+lithuanian  L IH TH AH W EY N IY AH N 
+llc  EH L EH L S IY 
+logarithm  L AA G ER IH DH AH M 
+lorenz  L ER EH N T S 
+louis  L UW IH S IH Z 
+lsd  EH L EH S D IY 
+ltd  L IH M IH T IH D 
+ltd  EH L T IY D IY 
+ltd  L IH M IH T IH D 
+luxurious  L AH G ZH ER IY AH S 
+luxury  L AH G ZH ER IY 
+magnetism  M AE G N AH T IH Z AH M 
+mam  EH M EY EH M 
+manicure  M AE N IH K Y ER 
+mannerism  M AE N ER IH Z AH M 
+marcos  M AA R K OW S IH Z 
+marxism  M AA R K S IH Z AH M 
+mass  M AE S AH CH UW S AH T S 
+materialism  M AH T IH R IY AH L IH Z AH M 
+mba  EH M B IY EY 
+mcafee  M AE K AH F IY 
+mcafee  M AH K AE F IY 
+mccain  M AH K EY N 
+mccandless  M AH K AE N D L AH S 
+mccarthy  M AH K AA R TH IY 
+mccartney  M AH K AA R T N IY 
+mcclure  M AH K L UW R 
+mcconnell  M AH K AA N AH L 
+mccoy  M AH K OY 
+mccullough  M AH K AH L AH 
+mcdonald  M AH K D AA N AH L D 
+mcdonalds  M AH K D AA N AH L D Z 
+mcdonalds  M AH K D AA N AH L D Z 
+mcdowell  M AH K D AW AH L 
+mcenroe  M AE K AH N R OW 
+mcgee  M AH G IY 
+mcgill  M AH G IH L 
+mcgovern  M AH G AH V ER N 
+mcgrath  M AH G R AE TH 
+mcgraw  M AH G R AO 
+mckee  M AH K IY 
+mckenna  M AH K EH N AH 
+mckinley  M AH K IH N L IY 
+mckinsey  M AH K IH N Z IY 
+mclaren  M AH K L EH R AH N 
+mclean  M AH K L IY N 
+mclean  M AH K L EY N 
+mcluhan  M AH K L UW AH N 
+mcmahon  M AH K M EY AH N 
+mcmahon  M AH K M AE N 
+mcnabb  M AH K N AE B 
+mcnulty  M AH K N AH L T IY 
+mcqueen  M AH K W IY N 
+mechanism  M EH K AH N IH Z AH M 
+meddling  M EH D AH L IH NG 
+memphis  M EH M P F AH S 
+memphis  M EH M P F IH S 
+mercury  M ER K Y ER IY 
+metabolism  M AH T AE B AH L IH Z AH M 
+mgm  EH M G IY EH M 
+microcosm  M AY K R AH K AA Z AH M 
+microorganism  M AY K R OW AO R G AH N IH Z AH M 
+middling  M IH D AH L IH NG 
+militarism  M IH L AH T ER IH Z AH M 
+mingling  M IH NG G AH L IH NG 
+minimalism  M IH N AH M AH L IH Z AH M 
+minutia  M IH N UW SH IY AH 
+mit  EH M AY T IY 
+modernism  M AA D ER N IH Z AH M 
+monotheism  M AA N AH TH IY IH Z AH M 
+monterey  M AA N ER EY 
+monterrey  M AA N ER EY 
+monterrey  M AA N ER R EY 
+mormonism  M AO R M AH N IH Z AH M 
+motorcyclist  M OW T ER S AY K AH L IH S T 
+mozart  M OW T S AA R T 
+mpeg  EH M P EH G 
+mpg  EH M P IY JH IY 
+mpg  M AY L Z P ER G AE L AH N 
+mph  EH M P IY EY CH 
+mph  M AY L Z P ER AW ER 
+mri  EH M AA R AY 
+mrs  M IH S IH Z 
+mrs  M IH S IH Z 
+mtv  EH M T IY V IY 
+mujahideen  M UW JH AH HH EH D IY N 
+multiculturalism  M AH L T IY K AH L CH ER AH L IH Z AH M 
+mysticism  M IH S T IH S IH Z AH M 
+naive  N AY IY V 
+napoleon  N AH P OW L Y AH N 
+narcissism  N AA R S IH S IH Z AH M 
+nationalism  N AE SH AH N AH L IH Z AH M 
+naturalism  N AE CH ER AH L IH Z AH M 
+naturalism  N AE CH R AH L IH Z AH M 
+nazi  N AA T S IY 
+nazis  N AA T S IY Z 
+nazis  N AA T S IY Z 
+nazis  N AA T S IY Z 
+nazism  N AE Z IH Z AH M 
+nba  EH N B IY EY 
+nbc  EH N B IY S IY 
+negotiate  N AH G OW SH IY EY T 
+negotiate  N IH G OW SH IY EY T 
+negotiating  N IH G OW SH IY EY T IH NG 
+negotiation  N IH G OW SH IY EY SH AH N 
+negotiator  N AH G OW SH IY EY T ER 
+negotiator  N IH G OW SH IY EY T ER 
+nepotism  N EH P AH T IH Z AH M 
+neuronal  N UH R OW N AH L Z 
+nfc  EH N EH F S IY 
+nfl  EH N EH F EH L 
+ngo  EH NG JH IY OW 
+ngos  EH NG JH IY OW Z 
+ngos  EH NG G OW Z 
+nietzsche  N IY CH IY 
+nihilism  N AY AH L IH Z AH M 
+noone  N OW W AH N 
+noaa  EH N OW EY EY 
+noxious  N AA K SH AH S 
+npr  EH N P IY AA R 
+nth  EH N TH 
+nvidia  EH N V IH D IY AH 
+nypd  EH N W AY P IY D IY 
+obnoxious  AA B N AA K SH AH S 
+oecd  OW IY S IY D IY 
+once  W AH N S 
+one  W AH N 
+one  HH W AH N 
+ones  W AH N Z 
+oneness  W AH N N AH S 
+ones  W AH N Z 
+ones  W AH N Z 
+oneself  W AH N S EH L F 
+optimism  AA P T AH M IH Z AH M 
+organism  AO R G AH N IH Z AH M 
+orgasm  AO R G AE Z AH M 
+orgasms  AO R G AE Z AH M Z 
+ostracism  AO S T R AH S IH Z AH M 
+our  AW ER 
+ours  AW ER Z 
+ourself  AW ER S EH L F 
+ourselves  AW ER S EH L V Z 
+oxidative  AA K S AH D AY T IH V 
+paganism  P EY G AH N IH Z AH M 
+parallelism  P EH R AH L EH L IH Z AH M 
+parliamentary  P AA R L AH M EH N ER IY 
+pasadena  P AE S AH D IY N ER 
+patriotism  P EY T R IY AH T IH Z AH M 
+pdf  P IY D IY EH F 
+perceptual  P ER S EH P CH AH W AH L 
+perfectionism  P ER F EH K SH AH N IH Z AH M 
+perpetuate  P ER P EH CH AH W EY T 
+perpetuation  P ER P EH CH AH W EY SH AH N 
+pessimism  P EH S AH M IH Z AH M 
+petr  P EH T ER 
+pga  P IY JH IY EY 
+phd  P IY EY CH D IY 
+phd  P IY EY CH D IY 
+php  P IY EY CH P IY 
+pizza  P IY T S AH 
+pizzeria  P IY T S ER IY AH 
+plagiarism  P L EY JH ER IH Z AH M 
+pluralism  P L UH R AH L IH Z AH M 
+poignant  P OY N Y AH N T 
+polytheism  P AA L IY TH IY IH Z AH M 
+populism  P AA P Y AH L IH Z AH M 
+pos  P IY OW EH S 
+positivism  P AA Z AH T IH V IH Z AH M 
+ppm  P IY P IY EH M 
+pragmatism  P R AE G M AH T IH Z AH M 
+predominately  P R IH D AA M AH N AH N T L IY 
+printer  P R IH N ER 
+prism  P R IH Z AH M 
+probably  P R AA B L IY 
+proceed  P ER S IY D 
+productions  P ER D AH K SH AH N Z 
+production  P ER D AH K SH AH N 
+productions  P ER D AH K SH AH N Z 
+productions  P ER D AH K SH AH N Z 
+productive  P ER D AH K T IH V 
+productively  P ER D AH K T IH V L IY 
+prof  P R AH F EH S ER 
+professionalism  P R AH F EH SH AH N AH L IH Z AH M 
+promotion  P ER M OW SH AH N 
+promotional  P ER M OW SH AH N AH L 
+promotions  P ER M OW SH AH N Z 
+protectionism  P R AH T EH K SH AH N IH Z AH M 
+protestantism  P R AA T AH S T AH N T IH Z AH M 
+ptsd  P IY T IY EH S D IY 
+puerto  P AO R T ER 
+puncture  P AH NG K SH ER 
+puzzling  P AH Z AH L IH NG 
+quantifiable  K W AA N T IH F AY AH B EH L 
+racism  R EY S IH Z AH M 
+rafael  R AA F AY EH L 
+rambling  R AE M B AH L IH NG 
+raphael  R AA F AY EH L 
+raphael  R AA F Y EH L 
+ratio  R EY SH IY OW 
+rca  AA R S IY EY 
+realty  R IH L IH T IY 
+recidivism  R AH S IH D IH V IH Z AH M 
+reconfigure  R IY K AH N F IH G Y ER 
+recycling  R IY S AY K AH L IH NG 
+redemption  R IH D EH M SH AH N 
+relativism  R EH L AH T IH V IH Z AH M 
+renegotiate  R IY N IH G OW SH IY EY T 
+rep  R EH P R IY Z EH T AH T IH V 
+rep  R EH P R IY Z EH T AH T IH V 
+repercussion  R IY P R AH K AH SH AH N 
+restaurant  R EH S T ER AA N T 
+restaurants  R EH S T ER AA N T S 
+restaurants  R EH S T R AA N T S 
+restaurant  R EH S T R AA N T 
+restaurants  R EH S T ER AA N T S 
+restaurants  R EH S T ER AA N T S 
+restaurants  R EH S T R AA N T S 
+restaurants  R EH S T R AA N T S 
+restaurateur  R EH S T ER AH T ER 
+restaurateur  R EH S T R AH T ER 
+rhythm  R IH DH AH M 
+rna  AA R EH N EY 
+romanticism  R OW M AE N T AH S IH Z AH M 
+rpm  AA R P IY EH M 
+rsvp  AA R EH S V IY P IY 
+rwanda  R AH W AA N D AH 
+sadism  S EY D IH Z AH M 
+sai  EH S EY AY 
+sandwich  S AE M W IH CH 
+sarcasm  S AA R K AE Z AH M 
+sauvignon  S AO V IH N Y AA N 
+sba  EH S B IY EY 
+schism  S K IH Z AH M 
+schizophrenia  S K IH T S AH F R IY N IY AH 
+sci  EH S S IY AY 
+scour  S K AW ER 
+sdn  EH S D IY EH N 
+secularism  S EH K Y AH L ER IH Z AH M 
+semitism  S EH M IH T IH Z AH M 
+sensationalism  S EH N S EY SH AH N AH L IH Z AH M 
+sensual  S EH N SH AH W AH L 
+sep  EH S IY P IY 
+settler  S EH T AH L ER 
+sexism  S EH K S IH Z AH M 
+sexual  S EH K SH UW AH L 
+sexuality  S EH K SH UW AE L AH T IY 
+sexually  S EH K SH UW AH L IY 
+sgt  S AA R JH AH N T 
+shuffling  SH AH F UH L IH NG 
+silva  S EH L V AH 
+simpler  S IH M P AH L ER 
+skepticism  S K EH P T IH S IH Z AH M 
+smithsonian  S M IH S OW N IY AH N 
+sms  EH S EH M EH S 
+smuggler  S M AH G AH L ER 
+smuggling  S M AH G AH L IH NG 
+socialism  S OW SH AH L IH Z AH M 
+someone  S AH M W AH N 
+someones  S AH M W AH N Z 
+sos  EH OW EH S 
+sour  S AW ER 
+southampton  S AW TH HH AE M P T AH N 
+sparkling  S P AA R K AH L IH NG 
+spasm  S P AE Z AH M 
+spring  S P ER IH NG 
+springs  S P ER IH NG Z 
+sprinkler  S P R IH NG K AH L ER 
+sprinkling  S P R IH NG K AH L IH NG 
+sql  EH S K Y UW EH L 
+sql  S IY K W UH L 
+sri  EH S AA R AY 
+ssn  EH S EH S EH N 
+stickler  S T IH K AH L ER 
+stoicism  S T OW AH S IH Z AH M 
+strength  S T R EH NG K TH 
+stumbling  S T AH M B AH L IH NG 
+substantiate  S AH B S T AE N SH IY EY T 
+subtly  S AH T AH L IY 
+supplementary  S AH P L AH M EH N ER IY 
+supreme  S ER P R IY M 
+surrealism  S ER IY L IH Z AH M 
+surrealism  S ER IY AH L IH Z AH M 
+suu  EH S Y UW Y UW 
+suv  EH S Y UW V IY 
+svp  S V IY P IY 
+symbolism  S IH M B AH L IH Z AH M 
+tshirt  T IY S ER T 
+tshirts  T IY S ER T S 
+tac  T IY EY S IY 
+taoism  D AW IH Z AH M 
+tchaikovsky  CH AY K AA F S K IY 
+tentatively  T EH N T AH V L IY 
+tenure  T EH N Y ER 
+tenured  T EH N Y ER D 
+terrorism  T EH R ER IH Z AH M 
+tertiary  T ER SH IY EH R IY 
+texas  T EH K S AH S IH Z 
+theism  TH IY IH Z AH M 
+thomas  T AA M AH S IH Z 
+tingling  T IH NG G AH L IH NG 
+tlc  T IY EH L S IY 
+tortilla  T AO R T IY AH 
+totalitarianism  T OW T AE L AH T EH R IY AH N IH Z AH M 
+tourism  T UH R IH Z AH M 
+transsexual  T R AE N S EH K SH Y UW AH L 
+trembling  T R EH M B AH L IH NG 
+tribalism  T R AY B AH L IH Z AH M 
+troubling  T R AH B AH L IH NG 
+truism  T R UW IH Z AH M 
+tts  T IY T IY Z 
+tumblr  T AH M B L ER 
+usa  Y UW EH S EY 
+usc  Y UW EH S IY 
+ufo  Y UW EH F OW 
+uncomfortably  AH N K AH M F T AH B L IY 
+undergraduate  AH N D ER G R AE JH AH W AH T 
+undifferentiated  AH N D IH F ER EH N SH IY EY T IH D 
+uninitiated  AH N IH N IH SH IY EY T IH D 
+uninitiated  AH N IY N IH SH IY EY T IH D 
+uninterrupted  AH N IH N ER AH P T IH D 
+unsettling  AH N S EH T AH L IH NG 
+unstructured  AH N S T R AH K SH ER D 
+unsubstantiated  AH N S AH B S T AE N SH IY EY T IH D 
+uranium  Y ER EY N IY AH M 
+uranus  Y ER AH N AH S 
+urea  Y ER IY AH 
+urethra  Y ER IY TH R AH 
+uri  Y ER IY 
+uric  Y ER IH K 
+urinary  Y ER AH N EH R IY 
+urinate  Y ER AH N EY T 
+urine  Y ER AH N 
+url  Y UW AA R EH L 
+urls  Y UW AA R EH L Z 
+uruguay  Y ER AH G W EY 
+uruguay  Y ER AH G W AY 
+usa  Y UW EH S EY 
+usb  Y UW EH S B IY 
+usda  Y UW EH S D IY EY 
+uss  Y UW EH S EH S 
+ussr  Y UW EH S EH S AA R 
+usual  Y UW ZH AH W AH L 
+usually  Y UW ZH AH W AH L IY 
+uva  Y UW V IY EY 
+vandalism  V AE N D AH L IH Z AH M 
+vegetarianism  V EH JH AH T EH R IY AH N IH Z AH M 
+vignette  V IH N Y EH T 
+vignette  V IY N Y EH T 
+vip  V IY AY P IY 
+visual  V IH ZH AH W AH L 
+welsh  W EH L CH 
+western  HH W EH S T ER N 
+wicket  HH W IH K AH T 
+wiz  HH W IH Z 
+wobbly  W AA B AH L IY 
+worcestershire  W UH S T AH SH ER 
+wouldve  W UH D AH V 
+wrangler  R AE NG G AH L ER 
+wrestler  R EH S AH L ER 
+wrestling  R EH S AH L IH NG 
+xbox  EH K S B AA K S 
+xiao  ZH AW 
+xiaoping  ZH AW P IH NG 
+xing  SH IH NG 
+xml  EH K S EH M EH L 
+zeitgeist  T S AY T G AY S T 
+zhao  JH AW 
+zionism  Z AY AH N IH Z AH M 
