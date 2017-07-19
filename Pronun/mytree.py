@@ -6,6 +6,7 @@ class MultiTreeNode:
         self.name = ''
         self.child_list = []
 
+
 class EvolvedTreeNode:
     def __init__(self):
         self.name = ''
@@ -14,29 +15,13 @@ class EvolvedTreeNode:
 
 
 def generate_tree(root, pronun_spellings, word, pronun, i, j):
-    if (i < len(word)) and (j < len(pronun)) and (word[i] in pronun_spellings[pronun[j]]):
-        node = MultiTreeNode()
-        node.name = str(word[i])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 1, j + 1)
-    if (i + 1 < len(word)) and (j < len(pronun)) and (str(word[i]) + str(word[i + 1]) in pronun_spellings[pronun[j]]):
-        node = MultiTreeNode()
-        node.name = str(word[i]) + str(word[i + 1])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 2, j + 1)
-    if (i + 2 < len(word)) and (j < len(pronun)) and (
-                        str(word[i]) + str(word[i + 1]) + str(word[i + 2]) in pronun_spellings[pronun[j]]):
-        node = MultiTreeNode()
-        node.name = str(word[i]) + str(word[i + 1]) + str(word[i + 2])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 3, j + 1)
-    if (i + 3 < len(word)) and (j < len(pronun)) and (
-                    str(word[i]) + str(word[i + 1]) + str(word[i + 2]) + str(word[i + 3]) in pronun_spellings[
-        pronun[j]]):
-        node = MultiTreeNode()
-        node.name = str(word[i]) + str(word[i + 1]) + str(word[i + 2] + str(word[i + 3]))
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 4, j + 1)
+    # 设置拼写可以是1-4个字母
+    for k in range(4):
+        if (i + k < len(word)) and (j < len(pronun)) and (word[i:i + 1 + k] in pronun_spellings[pronun[j]]):
+            node = MultiTreeNode()
+            node.name = word[i:i + 1 + k]
+            root.child_list.append(node)
+            generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 1 + k, j + 1)
 
 
 def read_pronumAB(file_name):
@@ -76,7 +61,6 @@ def find_all_path2(root, allpath, path, word, deepth, length):
     path.pop()
 
 
-
 def read_select2nd(filename):
     select2ndlist = []
     with open(filename, 'r', encoding='utf-8') as f1:
@@ -99,7 +83,6 @@ def read_wordrank(filename):
     return word_rank
 
 
-
 def read_cmudict(filename, outputname1, outputname2, pronun_spellings, probTable, select2ndlist, word_rank):
     num1 = 0
     num2 = 0
@@ -118,7 +101,6 @@ def read_cmudict(filename, outputname1, outputname2, pronun_spellings, probTable
             allpath = []
             path = []
             find_all_path2(root, allpath, path, word, 0, len(pronun))
-
 
             # path_word = []
             # path_pronun = []
@@ -197,6 +179,7 @@ def read_cmudict(filename, outputname1, outputname2, pronun_spellings, probTable
     print(num3)
     print(num4)
 
+
 def writeps(filename, pronun_spellings):
     with open(filename, 'w', encoding='utf-8') as f:
         for k in pronun_spellings:
@@ -218,6 +201,7 @@ def writeps(filename, pronun_spellings):
             f.write(',')
             f.write('\n')
 
+
 def writes2nd(filename, select2ndlist):
     with open(filename, 'w', encoding='utf-8') as f:
         for s in select2ndlist:
@@ -226,6 +210,7 @@ def writes2nd(filename, select2ndlist):
             f.write('"')
             f.write(',')
             f.write('\n')
+
 
 if __name__ == '__main__':
     pronun_spellings = read_pronumAB(
