@@ -21,63 +21,21 @@ def read_pronumAB(file_name):
 
 
 def generate_tree(root, pronun_spellings, word, pronun, i, j):  # 只考虑两个音标组合
-    if (i < len(word)) and (j < len(pronun)) and (word[i] in pronun_spellings[pronun[j]]):
-        node = EvolvedTreeNode()
-        node.name = str(word[i])
-        node.pron = str(pronun[j])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 1, j + 1)
-    if (i + 1 < len(word)) and (j < len(pronun)) and (str(word[i]) + str(word[i + 1]) in pronun_spellings[pronun[j]]):
-        node = EvolvedTreeNode()
-        node.name = str(word[i]) + str(word[i + 1])
-        node.pron = str(pronun[j])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 2, j + 1)
-    if (i + 2 < len(word)) and (j < len(pronun)) and (
-                        str(word[i]) + str(word[i + 1]) + str(word[i + 2]) in pronun_spellings[pronun[j]]):
-        node = EvolvedTreeNode()
-        node.name = str(word[i]) + str(word[i + 1]) + str(word[i + 2])
-        node.pron = str(pronun[j])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 3, j + 1)
-    if (i + 3 < len(word)) and (j < len(pronun)) and (
-                            str(word[i]) + str(word[i + 1]) + str(word[i + 2]) + str(word[i + 3]) in pronun_spellings[
-                pronun[j]]):
-        node = EvolvedTreeNode()
-        node.name = str(word[i]) + str(word[i + 1]) + str(word[i + 2]) + str(word[i + 3])
-        node.pron = str(pronun[j])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 4, j + 1)
-    if (i < len(word)) and (j + 1 < len(pronun)) and (str(pronun[j]) + str(pronun[j + 1]) in pronun_spellings) and (
-                str(word[i]) in pronun_spellings[str(pronun[j]) + str(pronun[j + 1])]):
-        node = EvolvedTreeNode()
-        node.name = str(word[i])
-        node.pron = str(pronun[j]) + str(pronun[j + 1])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 1, j + 2)
-    if (i + 1 < len(word)) and (j + 1 < len(pronun)) and (str(pronun[j]) + str(pronun[j + 1]) in pronun_spellings) and (
-                    str(word[i]) + str(word[i + 1]) in pronun_spellings[str(pronun[j]) + str(pronun[j + 1])]):
-        node = EvolvedTreeNode()
-        node.name = str(word[i]) + str(word[i + 1])
-        node.pron = str(pronun[j]) + str(pronun[j + 1])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 2, j + 2)
-    if (i + 2 < len(word)) and (j + 1 < len(pronun)) and (str(pronun[j]) + str(pronun[j + 1]) in pronun_spellings) and (
-                        str(word[i]) + str(word[i + 1]) + str(word[i + 2]) in pronun_spellings[
-                    str(pronun[j]) + str(pronun[j + 1])]):
-        node = EvolvedTreeNode()
-        node.name = str(word[i]) + str(word[i + 1]) + str(word[i + 2])
-        node.pron = str(pronun[j]) + str(pronun[j + 1])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 3, j + 2)
-    if (i + 3 < len(word)) and (j + 1 < len(pronun)) and (str(pronun[j]) + str(pronun[j + 1]) in pronun_spellings) and (
-                            str(word[i]) + str(word[i + 1]) + str(word[i + 2]) + str(word[i + 3]) in pronun_spellings[
-                    str(pronun[j]) + str(pronun[j + 1])]):
-        node = EvolvedTreeNode()
-        node.name = str(word[i]) + str(word[i + 1]) + str(word[i + 2]) + str(word[i + 3])
-        node.pron = str(pronun[j]) + str(pronun[j + 1])
-        root.child_list.append(node)
-        generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 4, j + 2)
+
+    for k in range(4):
+        if (i + k < len(word)) and j < len(pronun) and (word[i:i + 1 + k] in pronun_spellings[pronun[j]]):
+            node = EvolvedTreeNode()
+            node.name = str(word[i:i + 1 + k])
+            node.pron = str(pronun[j])
+            root.child_list.append(node)
+            generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 1 + k, j + 1)
+    for k in range(4):
+        if (i + k < len(word)) and (j + 1 < len(pronun)) and (str(pronun[j]) + str(pronun[j + 1]) in pronun_spellings) and (word[i:i + 1 + k] in pronun_spellings[str(pronun[j]) + str(pronun[j + 1])]):
+            node = EvolvedTreeNode()
+            node.name = str(word[i:i + 1 + k])
+            node.pron = str(pronun[j]) + str(pronun[j + 1])
+            root.child_list.append(node)
+            generate_tree(root.child_list[-1], pronun_spellings, word, pronun, i + 1 + k, j + 2)
 
 
 def find_all_path3(root, allpath, path_word, path_pronun, word, pronun):
@@ -160,7 +118,7 @@ def read_unresolved(filename1, filename2, filename3, pronun_spellings, probTable
                         s += ' '
                         p += allpath[1][0][i][2:]
                         p += ' '
-                    elif allpath[1][0][i] in ['YUW', 'KS', 'YAH', 'GZ','YUH']:  # 前一个独自为音标
+                    elif allpath[1][0][i] in ['YUW', 'KS', 'YAH', 'GZ', 'YUH']:  # 前一个独自为音标
                         s += allpath[0][0][i]
                         s += '-'
                         s += allpath[1][0][i][:1]
@@ -186,7 +144,7 @@ def read_unresolved(filename1, filename2, filename3, pronun_spellings, probTable
                 f2.write('\n')
                 f2.write(s)
                 f2.write('\n')
-            elif len(allpath[0]) == 2:#就选第一个
+            elif len(allpath[0]) == 2:  # 就选第一个
                 num2 += 1
                 f2.write(word)
                 f2.write('\n')
@@ -211,6 +169,7 @@ def read_unresolved(filename1, filename2, filename3, pronun_spellings, probTable
                         s += ' '
                         p += allpath[1][0][i][2:]
                         p += ' '
+                        print(s)
                     elif allpath[1][0][i] in ['YUW', 'KS', 'YAH', 'GZ', 'YUH']:  # 前一个独自为音标
                         s += allpath[0][0][i]
                         s += '-'

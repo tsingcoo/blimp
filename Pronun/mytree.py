@@ -130,7 +130,6 @@ def read_cmudict(filename, outputname1, outputname2, pronun_spellings, probTable
                 num2 += 1
                 f2.write(word)
                 f2.write('\n')
-
                 treeIndex = 0  # 标识是否应该选择哪一棵树🌲
                 ta = ''
                 for i in range(len(allpath[0])):
