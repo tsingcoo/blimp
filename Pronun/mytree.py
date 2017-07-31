@@ -77,7 +77,7 @@ def read_wordrank(filename):
     with open(filename, 'r', encoding='utf-8') as f1:
         for line in f1.readlines():
             linelist = line.strip().split(' ')
-            if cnt <= 10000:
+            if cnt <= 30000:
                 word_rank.append(linelist[0])
             cnt += 1
     return word_rank
@@ -88,6 +88,7 @@ def read_cmudict(filename, outputname1, outputname2, pronun_spellings, probTable
     num2 = 0
     num3 = 0
     num4 = 0
+    num5 = 0
     twoalign = {}
     with open(filename, 'r', encoding='utf-8') as f1, open(outputname1, 'w', encoding='utf-8') as f2, open(
             outputname2, 'w', encoding='utf-8') as f3:
@@ -95,7 +96,8 @@ def read_cmudict(filename, outputname1, outputname2, pronun_spellings, probTable
             linelist = line.strip().split(' ')
             root = MultiTreeNode()
             root.name = 'root'
-            word = re.sub('[^a-zA-Z]', '', linelist[0])  # 去掉特殊字符
+            word = linelist[0]
+            # word = re.sub('[^a-zA-Z]', '', linelist[0])  # 去掉特殊字符
             pronun = linelist[1:]
             generate_tree(root, pronun_spellings, word, pronun, 0, 0)
             allpath = []
@@ -155,7 +157,7 @@ def read_cmudict(filename, outputname1, outputname2, pronun_spellings, probTable
                 f2.write('\n')
 
 
-            elif len(allpath) == 3:
+            elif len(allpath) >= 3:
                 num3 += 1
                 # print(word)
                 # print(pronun)
@@ -173,11 +175,14 @@ def read_cmudict(filename, outputname1, outputname2, pronun_spellings, probTable
                     f3.write(' ')
                 f3.write('\n')
 
+                if word in word_rank:
+                    num5 += 1
+
     print(num1)
     print(num2)
     print(num3)
     print(num4)
-
+    print(num5)
 
 def writeps(filename, pronun_spellings):
     with open(filename, 'w', encoding='utf-8') as f:

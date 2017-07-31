@@ -63,7 +63,7 @@ def read_select2nd(filename):
         for line in f1.readlines():
             line = line.strip()
             select2ndlist.append(line)
-    print(select2ndlist)
+    # print(select2ndlist)
     return select2ndlist
 
 
@@ -82,7 +82,8 @@ def read_unresolved(filename1, filename2, filename3, pronun_spellings, probTable
             root = EvolvedTreeNode()
             root.name = 'rootname'
             root.pron = 'rootpron'
-            word = re.sub('[^a-zA-Z]', '', linelist[0])  # 去掉特殊字符
+            word = linelist[0]
+            # word = re.sub('[^a-zA-Z]', '', linelist[0])  # 去掉特殊字符
             pronun = linelist[1:]
             generate_tree(root, pronun_spellings, word, pronun, 0, 0)
             allpath = []
@@ -97,6 +98,7 @@ def read_unresolved(filename1, filename2, filename3, pronun_spellings, probTable
                 num1 += 1
                 f2.write(word)
                 f2.write('\n')
+                # print(word)
 
                 s = ''
                 p = ''
@@ -140,6 +142,7 @@ def read_unresolved(filename1, filename2, filename3, pronun_spellings, probTable
                         p += allpath[1][0][i][:2]
                         p += ' '
 
+
                 f2.write(p)
                 f2.write('\n')
                 f2.write(s)
@@ -169,7 +172,7 @@ def read_unresolved(filename1, filename2, filename3, pronun_spellings, probTable
                         s += ' '
                         p += allpath[1][0][i][2:]
                         p += ' '
-                        print(s)
+                        # print(s)
                     elif allpath[1][0][i] in ['YUW', 'KS', 'YAH', 'GZ', 'YUH']:  # 前一个独自为音标
                         s += allpath[0][0][i]
                         s += '-'
